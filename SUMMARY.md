@@ -2,7 +2,7 @@
 
 ## Regras da Cidade
 
-* [Início](README.md)
+* [🏠 Início](README.md)
 * [📝 1. Apresentação e obrigações](01-apresentacao.md)
 * [📖 2. Glossário obrigatório](02-glossario.md)
 * [🎫 3. Whitelist e entrada](03-whitelist.md)

@@ -1,8 +1,4 @@
----
-icon: house-blank
----
-
-# Início
+# 🏠 Início
 
 **Versão 1.0** · Documento público e versionado · Ambientação: **Rio de Janeiro (RJ)** · Plataforma: FiveM
 
