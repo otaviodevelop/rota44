@@ -1,31 +1,33 @@
-# 5. Regras de roleplay
+# 5. Roleplay e imersão
 
-**5.1 Amor à vida.** Em qualquer situação de risco — abordagem, assalto, perseguição — o personagem deve agir com o temor e a cautela que a situação real teria. Frases de efeito, deboche, dancinhas ou atitudes de "vencer no grito" sob ameaça são vedadas.
+> Princípios: P1, P3, P4.
 
-**5.2 Rendição.** Ao levantar as mãos ou colocá-las na cabeça, o personagem está **rendido** e não pode reagir, salvo ausência total de ameaça armada direta no momento (ver 5.3). Rendir-se e depois reagir é quebra de regra.
+**5.1 Amor à vida.** Em situação de risco — abordagem, assalto, fuga — o personagem age com o medo e a seriedade que a vida real exigiria. Provocação sob ameaça, deboche e desafio aberto quando a própria vida está em jogo são vedados (princípio P3).
 
-**5.3 Reação.** Só é permitido reagir quando **nenhuma arma está apontada** para o personagem. Não é lícito reagir alegando que a mecânica do jogo forçou a retirada da arma (ex.: durante revista ou retirada de cinto). Estando sozinho e rendido por três ou mais indivíduos, não pode reagir, mesmo armado.
+**5.2 Rendição.** Mãos para cima ou na cabeça declaram o personagem rendido. Quem se rendeu não volta a agir na mesma cena: rendição não é pausa para contra-ataque.
 
-**5.4 Desvantagem numérica.** Confrontos entre grupos com dois ou mais membros de cada lado não são considerados anti amor à vida por desvantagem numérica, salvo quando já estiverem rendidos. Casos limítrofes são analisados em denúncia, com contexto.
+**5.3 Reação.** Reagir só é lícito quando nenhuma arma aponta para o personagem no momento da decisão. Se o jogo obrigar a largar a arma por animação — como durante revista — a reação é vedada. Rendido e sozinho contra adversários em superioridade numérica clara, não há reagir, mesmo armado; a avaliação do caso é da staff com contexto (princípio P4).
 
-**5.5 Metagaming.** Veda a seção 2.2. Usar Discord, live, mensagem externa ou qualquer canal OOC para coordenar ação, localizar jogador, antecipar acontecimento ou obter qualquer vantagem é estritamente proibido.
+**5.4 Confronto entre grupos.** Em confronto com duas pessoas ou mais de cada lado, a desvantagem numérica, por si só, não caracteriza quebra de amor à vida — exceto quando a rendição já foi declarada.
 
-**5.6 Powergaming.** Veda a seção 2.3. Exemplos concretos proibidos: transportar pessoas amarradas em motos; usar porta-malas como quinta/sexta vaga de veículo em ação de rua (uso restrito a emergência e sequestro); forçar ações que a física do jogo só permite por falha de mecânica.
+**5.5 Metagaming.** Veda a seção 2.2. Coordenar ação, localizar pessoa ou antecipar acontecimento por qualquer meio externo — Discord, live, mensagem — é vedado: é vantagem que o jogo não deu.
 
-**5.7 RDM / VDM.** Veda as seções 2.4 e 2.5. Acidente com vítima abandonada sem socorro responde por VDM.
+**5.6 Powergaming.** Veda a seção 2.3. Exemplos da casa: sustentar fuga com veículo que já não tem condição de fuga, realizar ações que só funcionam por falha de colisão do jogo e impor a alguém ações físicas das quais não haveria escapada na vida real.
 
-**5.8 Combat logging.** Veda a seção 2.6. Em caso de queda técnica durante cena ativa, o jogador deve relatar pelo suporte assim que reconectar; a cena é preservada ou reconstituída conforme a seção 12.
+**5.7 RDM e VDM.** Veda as seções 2.4 e 2.5. Acidente com vítima e abandono sem prestação de socorro responde como VDM.
 
-**5.9 Revenge kill.** Veda a seção 2.10. Em RP de cobrança da própria morte, a participação do personagem envolvido exige acordo prévio com a staff.
+**5.8 Combat logging.** Veda a seção 2.6. Em queda técnica durante cena ativa, o jogador relata pelo suporte na reconexão; a cena é preservada ou reconstituída conforme o processo da seção 16.
 
-**5.10 Dark RP.** Veda a seção 2.9. Conteúdo sexual coercitivo, humilhação discriminatória e obrigar exposição de dados pessoais de qualquer participante são vedados sem exceção, ainda que apresentados "como RP".
+**5.9 Revenge kill.** Veda a seção 2.10. Cobrança pela própria morte exige acordo prévio com a staff.
 
-**5.11 Forçar RP.** Obrigar outro jogador a aceitar ação, desfecho ou consequência sem construção anterior é vedado. Cena exige consentimento implícito pelo contexto construído.
+**5.10 Dark RP.** Veda a seção 2.9. Conteúdo sexual coercitivo, humilhação discriminatória e exposição forçada de dados pessoais são vedados mesmo quando apresentados "como RP".
 
-**5.12 Loot indevido.** Remover itens de personagens, veículos ou locais sem relação com a cena em andamento (farms, corpos sem contexto, bens alheios fora de ação) é furto indevido e responde como roubo de patrimônio fora de contexto.
+**5.11 Forçar RP.** Obrigar outro jogador a aceitar ação, desfecho ou consequência sem construção anterior é vedado. Cena exige contexto compartilhado; conveniência não é consentimento.
 
-**5.13 Cop bait.** Conduzir intencionalmente a perseguição até local onde outros jogadores estejam emboscados, armados e preparados, para iniciar confronto em vantagem, é vedado. A staff analisa o contexto para caracterizar a infração.
+**5.12 Loot indevido.** Retirar itens de corpos, veículos ou locais sem relação com a cena em andamento é furto fora de contexto e responde como roubo de patrimônio. Local de trabalho não é ponto de saque.
 
-**5.14 Memória e retorno.** Tratamento ou atendimento **não** apaga a história: é proibido voltar à mesma cena encerrada para atacar, cobrar ou "reviver" o confronto. Informação obtida enquanto incapacitado não pode ser usada como observação ativa. Dívidas, identidade, investigação e propriedade persistem após atendimento.
+**5.13 Atrair perseguição para emboscada.** Levar a perseguição policial até local previamente ocupado por terceiros prontos para o confronto, para iniciar a troca em vantagem, é vedado. A staff analisa intenção, posicionamento e preparação prévia (princípio P4).
 
-**5.15 Morte permanente (CK).** Morte definitiva de personagem **nunca** ocorre automaticamente em combate. Só existe mediante procedimento administrativo explícito, com regra própria e registro — nunca como resultado de perder um tiroteio.
+**5.14 Memória e retorno.** Atendimento não apaga a história: voltar à cena encerrada para atacar, cobrar ou reviver o confronto é proibido. Informação obtida enquanto incapacitado não serve como observação ativa. Dívidas, identidade, investigação e propriedade persistem após o alta.
+
+**5.15 Morte permanente (CK).** Morte definitiva de personagem nunca ocorre automaticamente em combate. Só existe mediante procedimento administrativo explícito, com regra própria e registro (princípio P2).

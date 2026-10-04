@@ -1,14 +1,12 @@
 # Rota 44 — Regras da Cidade
 
-**Versão 1.0** · Documento público e versionado · Ambientação: **Rio de Janeiro (RJ)** · Plataforma: FiveM
+**Versão 1.0** · Livro de regras da cidade · Ambientação: **Rio de Janeiro (RJ)** · Plataforma: FiveM · **18+**
 
-> **Como ler este documento.** As regras são numeradas de forma permanente (ex.: *5.4*) para permitir citação exata em advertências, sanções e recursos. A versão vigente é sempre a publicada neste endereço oficial. Ao concluir a whitelist, você declara ter lido e aceitado a versão vigente.
+O livro descreve como a cidade funciona: o que o personagem encontra, o que é permitido, o que é proibido e qual é a consequência. A numeração das regras é permanente (ex.: *7.4*) e serve para citação exata em advertências, sanções e recursos.
 
-A **Rota 44** é uma cidade de roleplay sério para GTA V (FiveM), ambientada no Rio de Janeiro. Este site reúne o documento oficial de regras da cidade, dividido em 15 seções — navegue pelo sumário.
+**Comece pela** [Apresentação e obrigações](01-apresentacao.md) **e não pule o** [Glossário da cidade](02-glossario.md) — os termos dele são citados por todas as demais seções e são cobrados na entrevista de whitelist.
 
-**Comece pela [Apresentação e obrigações](01-apresentacao.md).**
-
-Antes de solicitar a whitelist, leia obrigatoriamente o [Glossário](02-glossario.md) e o [Sistema de sanções](13-sancoes.md): os termos do glossário são citados diretamente pelas demais regras.
+A versão vigente é sempre a publicada neste endereço, com data. Ao concluir a whitelist, você declara ter lido e aceitado esta versão.
 
 ---
 
