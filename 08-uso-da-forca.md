@@ -14,7 +14,7 @@
 
 **8.6 Bloqueios.** Bloqueio exige equipe à frente, deslocamento real, local adequado, sinalização e tempo de reação. Materializar objeto sob veículo em movimento é vedado. Posicionar agente como obstáculo humano para fabricar justificativa de disparo é vedado.
 
-**8.7 Perda de contato.** Perdido o contato visual, vale busca limitada por área e tempo, com última posição registrada. O mapa não acompanha o alvo oculto, e informação externa não move a busca (seção 5.5).
+**8.7 Perda de contato.** Perdido o contato visual, vale busca limitada por área e tempo, com última posição registrada. O mapa não acompanha o alvo oculto, e informação externa não move a busca (seção 5.5). Sem informação nova legítima, a busca ativa encerra após **3 minutos**. A perseguição comum é limitada a **3 unidades terrestres ativas**; aeronave entra apenas em ação de tabela especial (valores iniciais v1.0 — seção 7.1).
 
 **8.8 Rendição e tratamento.** Rendição encerra a agressão contra quem deixou de oferecer ameaça: comandos claros, controle de cena, auxílio e custódia quando fundamentada. Tortura, humilhação ou prolongamento de cena sem saída são vedados (seção 5.10).
 

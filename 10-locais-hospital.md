@@ -12,6 +12,18 @@
 
 **10.5 Continuidade.** Ação iniciada fora da área não continua dentro. Os envolvidos priorizam a saída da região antes de qualquer abordagem ou finalização — a critério da staff conforme o contexto.
 
-**10.6 Demais áreas de serviço.** Oficina, mecânica e atendimento essencial seguem a mesma lógica: serviço não é palco de confronto, salvo autorização formal. Furto simples sem violência segue a tabela oficial de áreas.
+**10.6 Demais áreas de serviço.** Oficina, mecânica e atendimento essencial seguem a mesma lógica: serviço não é palco de confronto, salvo autorização formal. Furto simples sem violência segue a Tabela C.
+
+**Tabela C — Áreas protegidas** · valores iniciais (v1.0 — 04/10/2026).
+
+| Local | O que vale dentro |
+|---|---|
+| Hospital ROTAVIDA (principal e auxiliares) | Todo crime vedado; atendimento tem prioridade |
+| Ponto de nascimento | Todo crime vedado; não é refúgio de perseguição |
+| Área de tutorial e introdução | Todo crime vedado |
+| Estação policial (custódia) | Todo crime vedado; só atuação de custódia |
+| Oficina e mecânica | Confronto e sequestro vedados; furto simples sem violência é permitido |
+
+Atravessar a linha da área não apaga perseguição nem concede imunidade (seção 10.4).
 
 **10.7 Espera vantagem.** Aguardar vantagem parado dentro de área segura é vedado.

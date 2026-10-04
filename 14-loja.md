@@ -2,7 +2,7 @@
 
 > Princípios: P2, P6, P10.
 
-**14.1 Loja oficial.** A única loja oficial da cidade é a Tebex, linkada no Discord e no site. Pagamento fora dela é golpe — denuncie pelo canal da seção 16.
+**14.1 Loja oficial.** A única loja oficial da cidade é a Tebex, linkada no Discord e no site. Pagamento fora dela é golpe — denuncie pelo canal da seção 16. O catálogo de produtos, preços e benefícios é publicado junto com a loja na abertura da cidade — a loja não abre sem catálogo.
 
 **14.2 O que a loja não vende.** A loja não vende dinheiro do jogo, itens com valor em dinheiro real, sorteios pagos nem qualquer valor sacável. Nenhuma compra reverte punição, concede imunidade ou vantagem em confronto (princípio P6).
 

@@ -8,9 +8,19 @@
 
 **19.3 Zona de influência.** O território da milícia é sua zona de influência, registrada no sistema. Dentro da zona, a cobrança tem efeito e o controle é exercido. Fora da zona, milícia não cobra nem se comporta como autoridade de área: comportamento fora do território é ação comum, sujeita às regras de sempre.
 
-**19.4 Cobrança de proteção.** A cobrança é periódica, com valor e intervalo da tabela publicada da cidade (seção 7.1). É feita por membro autorizado, em contexto de RP — nunca por automatismo. A recusa do alvo gera escalada proporcional ao contexto; cobrança não é violência gratuita (princípio P4).
+**19.4 Cobrança de proteção.** A cobrança é **mensal**: cada alvo tem uma data de vencimento registrada e um valor conforme o porte (Tabela D). É feita por membro autorizado, em contexto de RP — nunca por automatismo e nunca por cobrança recorrente em minutos: um alvo é cobrado **uma vez por mês**. A recusa do alvo gera escalada proporcional ao contexto; cobrança não é violência gratuita (princípio P4).
 
-**19.5 Renda registrada.** O recebimento entra no caixa da organização, com registro e auditoria (seção 13.2). Operação fora do sistema é caixa 2 (seção 6.5) — banimento permanente.
+**Tabela D — Contribuição mensal de milícia** · valores iniciais (v1.0 — 04/10/2026). Validação antes da abertura; alterações publicadas nesta seção com data.
+
+| Alvo na zona | Contribuição mensal |
+|---|---|
+| Comércio de pequeno porte | $1.500 |
+| Comércio de médio porte | $3.500 |
+| Comércio de grande porte | $7.500 |
+
+Máximo de **5 alvos ativos** por organização. Valor acima do teto ou alvo fora da zona: o sistema recusa o registro.
+
+**19.5 Sistema de cobrança (GUI).** A organização gerencia a cobrança em painel próprio: registro do estabelecimento (nome, porte e endereço na zona), data de vencimento, status — **pago, pendente, em atraso, recusado** — e histórico de quem pagou e quem não pagou. O recebimento registrado entra no caixa da organização com auditoria (seção 13.2); operação fora do sistema é caixa 2 (seção 6.5). Atraso consta no registro e abre caminho para acréscimo cobrado com contexto de RP — sem cobrança automática.
 
 **19.6 Vestígios.** Toda cobrança deixa rastro: denúncia do alvo, imagem de câmera, testemunha. Vestígio vira ocorrência, ocorrência vira investigação e investigação vira consequência dentro do processo da cidade (seção 9).
 
