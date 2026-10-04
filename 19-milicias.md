@@ -1,4 +1,4 @@
-# 19. Milícias: território, extorsão e fachadas
+# 🌴 19. Milícias: território, extorsão e fachadas
 
 > Princípios: P2, P4, P6.
 
@@ -12,11 +12,11 @@
 
 **Tabela D — Contribuição mensal de milícia** · valores iniciais, v1.0 — 04/10/2026. Alterações publicadas nesta seção com data.
 
-| Alvo na zona | Contribuição mensal |
-|---|---|
-| Comércio de pequeno porte | R$ 1.500 |
-| Comércio de médio porte | R$ 3.500 |
-| Comércio de grande porte | R$ 7.500 |
+| Alvo na zona              | Contribuição mensal |
+| ------------------------- | ------------------- |
+| Comércio de pequeno porte | R$ 1.500            |
+| Comércio de médio porte   | R$ 3.500            |
+| Comércio de grande porte  | R$ 7.500            |
 
 Máximo de **5 alvos ativos** por organização. Valor acima do teto ou alvo fora da zona: o sistema recusa o registro.
 
