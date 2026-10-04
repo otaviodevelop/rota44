@@ -1,4 +1,4 @@
-# 4. Convivência e respeito
+# 🤝 4. Convivência e respeito
 
 > Princípios: P1, P7.
 

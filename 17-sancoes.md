@@ -1,15 +1,15 @@
-# 17. Sanções e governança
+# ⛔ 17. Sanções e governança
 
 > Princípios: P4, P5.
 
 **17.1 Escala de sanções (OOC).**
 
-| Sanção | Quando |
-|---|---|
-| Advertência com registro | Infração leve, primeira vez — orientação registrada no histórico |
-| Remoção de whitelist | Infração média ou reincidência — exige nova ficha e entrevista para retorno |
-| Suspensão temporária | Infração média ou grave, ou reincidência — prazo fixo e informado |
-| Banimento permanente | Infração grave da lista fechada, ou reincidência extrema |
+| Sanção                   | Quando                                                                      |
+| ------------------------ | --------------------------------------------------------------------------- |
+| Advertência com registro | Infração leve, primeira vez — orientação registrada no histórico            |
+| Remoção de whitelist     | Infração média ou reincidência — exige nova ficha e entrevista para retorno |
+| Suspensão temporária     | Infração média ou grave, ou reincidência — prazo fixo e informado           |
+| Banimento permanente     | Infração grave da lista fechada, ou reincidência extrema                    |
 
 **17.2 Banimento permanente.** Trapaça e abuso de falhas (4.4, 4.6) · RMT e caixa 2 (6.5, 14.3) · discurso de ódio e assédio (1.6) · dark RP com conteúdo vedado (5.10) · exposição de dados pessoais (15.6) · conta usada para burlar sanção (3.6).
 
