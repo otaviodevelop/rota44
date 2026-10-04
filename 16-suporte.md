@@ -2,7 +2,7 @@
 
 > Princípios: P5, P9.
 
-**16.1 Canais.** Suporte, denúncias, bugs e recursos são abertos por ticket no Discord oficial, com número de protocolo, categoria, situação e desfecho. No jogo: `/ajuda`, `/bug` e `/denuncia`.
+**16.1 Canais.** Suporte, denúncias, bugs e recursos são abertos por ticket no Discord oficial, com número de protocolo, categoria, situação e desfecho. Na cidade: `/ajuda`, `/bug` e `/denuncia`.
 
 **16.2 Categorias.** Bug, denúncia, punição (recurso), conta, personagem, perda de item, veículo, pagamento, empresa, polícia/EMS e outros.
 

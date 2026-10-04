@@ -10,13 +10,13 @@
 
 **19.4 Cobrança de proteção.** A cobrança é **mensal**: cada alvo tem uma data de vencimento registrada e um valor conforme o porte (Tabela D). É feita por membro autorizado, em contexto de RP — nunca por automatismo e nunca por cobrança recorrente em minutos: um alvo é cobrado **uma vez por mês**. A recusa do alvo gera escalada proporcional ao contexto; cobrança não é violência gratuita (princípio P4).
 
-**Tabela D — Contribuição mensal de milícia** · valores iniciais (v1.0 — 04/10/2026). Validação antes da abertura; alterações publicadas nesta seção com data.
+**Tabela D — Contribuição mensal de milícia** · valores iniciais, v1.0 — 04/10/2026. Alterações publicadas nesta seção com data.
 
 | Alvo na zona | Contribuição mensal |
 |---|---|
-| Comércio de pequeno porte | $1.500 |
-| Comércio de médio porte | $3.500 |
-| Comércio de grande porte | $7.500 |
+| Comércio de pequeno porte | R$ 1.500 |
+| Comércio de médio porte | R$ 3.500 |
+| Comércio de grande porte | R$ 7.500 |
 
 Máximo de **5 alvos ativos** por organização. Valor acima do teto ou alvo fora da zona: o sistema recusa o registro.
 
@@ -30,6 +30,6 @@ Máximo de **5 alvos ativos** por organização. Valor acima do teto ou alvo for
 
 **19.9 Membros.** Entrada é registrada com data e tem contexto de RP (seção 6.3). Quem não participou da ação não responde por ela.
 
-**19.10 Consequências.** O caminho da milícia dentro da história: prisão com pena convertida (seção 9.1), apreensão de bens e veículos com registro (seção 6.7) e perda da zona em dissolução judicial registrada. Sanção OOC só em quebra de regra da comunidade (seção 17).
+**19.10 Consequências.** O caminho da milícia dentro da história: prisão com pena pelo catálogo (seção 9.1), apreensão de bens e veículos com registro (seção 6.7) e perda da zona em dissolução judicial registrada. Sanção OOC só em quebra de regra da comunidade (seção 17).
 
 **19.11 Dignidade.** Cobrança e retenção respeitam a pessoa: conteúdo sexual coercitivo, humilhação discriminatória e exposição forçada de dados são vedados sem exceção (seção 5.10).

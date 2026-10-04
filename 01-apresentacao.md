@@ -10,7 +10,7 @@
 
 **1.4 Versões.** Este livro é versionado. Vale sempre a versão publicada no endereço oficial, com data. Alterações relevantes são anunciadas no Discord. Concluir a whitelist declara aceite da versão vigente.
 
-**1.5 Admissão.** Idade mínima de 18 anos. A entrada depende de ficha e entrevista por voz com a staff. O servidor não coleta documento de identidade, CPF, endereço ou foto de jogadores.
+**1.5 Admissão.** Idade mínima de 18 anos. A entrada depende de ficha e entrevista por voz com a staff. A cidade não coleta documento de identidade, CPF, endereço ou foto dos participantes.
 
 **1.6 Discurso de ódio.** Racismo, xenofobia, homofobia, transfobia, assédio, bullying e apologia ao ódio, dentro ou fora do personagem, implicam banimento imediato, sem escala de sanções (princípio P7).
 

@@ -14,7 +14,7 @@
 
 **6.6 Intervalo entre ações.** Encerrar uma ação impede reiniciar logo em seguida para contornar cooldown ou trocar participantes.
 
-**Tabela B — Intervalos por cadeia** · valores iniciais (v1.0 — 04/10/2026). Validação antes da abertura; alterações publicadas nesta seção com data.
+**Tabela B — Intervalos por cadeia** · valores iniciais, v1.0 — 04/10/2026. Alterações publicadas nesta seção com data.
 
 | Cadeia | Intervalo por local |
 |---|---|
@@ -32,4 +32,4 @@ O intervalo é por local e por organização: trocar de endereço não zera o in
 
 **6.8 Lavagem.** Dinheiro sujo só sai pelas cadeias registradas, com taxa declarada. Criar dinheiro ilícito por repetição sem consumo, risco ou limite é exploração de falha (seção 4.6).
 
-**6.9 Conexão tardia.** Entrar em ação em andamento por informação recebida fora do jogo é metagaming (seção 5.5).
+**6.9 Conexão tardia.** Entrar em ação em andamento por informação recebida fora da cidade é metagaming (seção 5.5).

@@ -4,7 +4,7 @@
 
 **7.1 Tabela oficial de ações.** A Tabela A é a lei das ações na cidade: participantes, efetivo, reféns e intervalos. Ela é versionada com este livro.
 
-**Tabela A — Ações criminosas** · valores iniciais (v1.0 — 04/10/2026). Validação obrigatória com dados de teste antes da abertura; toda alteração é publicada nesta seção com data.
+**Tabela A — Ações criminosas** · valores iniciais, v1.0 — 04/10/2026. Alterações publicadas nesta seção com data.
 
 | Ação | Criminosos | Efetivo policial mínimo | Reféns máx. | Intervalo por local |
 |---|---|---|---|---|

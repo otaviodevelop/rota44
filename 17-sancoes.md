@@ -17,6 +17,6 @@
 
 **17.4 Proporcionalidade e medida emergencial.** A gravidade considera contexto, dano, reincidência e existência de dano a terceiros. Bloqueio emergencial durante apuração é medida de proteção, separada da decisão definitiva.
 
-**17.5 Instâncias separadas.** Sanção desta seção é OOC e trata regra de comunidade. Conduta institucional é da corregedoria (seção 20). Infração de trânsito, prisão e apreensão são consequências dentro do RP (seções 9 e 11) — escolha de personagem feita dentro do jogo não vira banimento.
+**17.5 Instâncias separadas.** Sanção desta seção é OOC e trata regra de comunidade. Conduta institucional é da corregedoria (seção 20). Infração de trânsito, prisão e apreensão são consequências dentro do RP (seções 9 e 11) — escolha de personagem feita dentro da cena não vira banimento.
 
 **17.6 Staff.** Staff não está acima das regras: abuso de cargo, edição de patrimônio sem trilha e julgamento do próprio caso respondem em dobro, com revogação imediata do cargo (princípio P5).

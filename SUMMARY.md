@@ -23,3 +23,4 @@
 * [18. Regras do Discord](18-discord.md)
 * [19. Milícias: território, extorsão e fachadas](19-milicias.md)
 * [20. Corrupção e integridade das forças](20-corrupcao.md)
+* [21. Código Penal & Infrações da cidade](21-codigo-penal.md)

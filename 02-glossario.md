@@ -6,18 +6,18 @@
 ### 2.1. IC e OOC
 
 - **IC (In Character):** tudo o que pertence à história e ao conhecimento do personagem.
-- **OOC (Out of Character):** tudo o que está fora do personagem (Discord, chats externos, lives, conversa entre jogadores).
+- **OOC (Out of Character):** tudo o que está fora do personagem (Discord, chats externos, lives, conversa entre as pessoas).
 - Informação OOC nunca entra no RP; informação IC nunca se resolve por via OOC.
 
 ### 2.2. Metagaming
 
 - Uso de qualquer informação obtida fora do RP (Discord, live, conversa entre contas, outro personagem) para obter vantagem dentro do RP.
-- Procurar identidade de alguém dentro do jogo por meios externos também é metagaming.
+- Procurar identidade de alguém dentro da cidade por meios externos também é metagaming.
 
 ### 2.3. Powergaming
 
-- Realizar ações impossíveis ou improváveis na vida real, abusando das mecânicas do jogo para obter vantagem.
-- O inverso também é powergaming: exigir que outro jogador aceite uma ação implausível apenas porque o jogo permite.
+- Realizar ações impossíveis ou improváveis na vida real para obter vantagem indevida.
+- O inverso também é powergaming: exigir que outro participante aceite uma ação implausível somente por ser possível.
 
 ### 2.4. RDM (Random Deathmatch)
 
@@ -50,7 +50,7 @@
 ### 2.11. Caixa 2 e RMT
 
 - **Caixa 2:** operação de dinheiro ou itens fora dos sistemas oficiais da cidade.
-- **RMT:** comprar, vender ou trocar dinheiro, itens ou vantagens do jogo por dinheiro real fora da loja oficial.
+- **RMT:** comprar, vender ou trocar dinheiro, itens ou vantagens da cidade por dinheiro real fora da loja oficial.
 
 ### 2.12. Propina
 
