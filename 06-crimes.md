@@ -1,4 +1,4 @@
-# 6. Crimes e organizações
+# 🔫 6. Crimes e organizações
 
 > Princípios: P2, P6.
 
@@ -16,15 +16,15 @@
 
 **Tabela B — Intervalos por cadeia** · valores iniciais (v1.0 — 04/10/2026). Validação antes da abertura; alterações publicadas nesta seção com data.
 
-| Cadeia | Intervalo por local |
-|---|---|
-| Loja e conveniência | 10 min |
-| ATM | 15 min |
-| Joalheria | 20 min |
-| Carro-forte | 30 min |
-| Banco | 45 min |
-| Sequestro (como ação) | 45 min |
-| Ponto de produção de drogas | 20 min |
+| Cadeia                      | Intervalo por local |
+| --------------------------- | ------------------- |
+| Loja e conveniência         | 10 min              |
+| ATM                         | 15 min              |
+| Joalheria                   | 20 min              |
+| Carro-forte                 | 30 min              |
+| Banco                       | 45 min              |
+| Sequestro (como ação)       | 45 min              |
+| Ponto de produção de drogas | 20 min              |
 
 O intervalo é por local e por organização: trocar de endereço não zera o intervalo da mesma cadeia.
 

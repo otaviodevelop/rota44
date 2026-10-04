@@ -1,4 +1,4 @@
-# 20. Corrupção e integridade das forças
+# 🕵️ 20. Corrupção e integridade das forças
 
 > Princípios: P2, P4, P5.
 
@@ -10,11 +10,11 @@
 
 **Tabela E — Teto de propina** · valores iniciais (v1.0 — 04/10/2026). Validação antes da abertura; alterações publicadas nesta seção com data.
 
-| Interação | Teto de propina |
-|---|---|
-| Revista sem apreensão | $1.000 |
-| Item ou veículo apreendido que "some" | $5.000 |
-| Ocorrência deixada de ser registrada | $10.000 |
+| Interação                              | Teto de propina   |
+| -------------------------------------- | ----------------- |
+| Revista sem apreensão                  | $1.000            |
+| Item ou veículo apreendido que "some"  | $5.000            |
+| Ocorrência deixada de ser registrada   | $10.000           |
 | Proteção recorrente fechada com agente | $15.000 por ciclo |
 
 Propina acima do teto não produz efeito: a operação é recusada e o valor não sai de quem oferece.
@@ -27,7 +27,7 @@ Propina acima do teto não produz efeito: a operação é recusada e o valor nã
 
 **20.7 Processo.** Fluxo fechado:
 
-```text
+```
 RECEBIDA → APURAÇÃO (sigilo e segregação de acesso) → DEFESA
 (material liberado, prazo e recurso) → DECISÃO (fundamentada e assinada)
 → RECURSO (opcional) → RESULTADO PUBLICADO
@@ -36,10 +36,11 @@ RECEBIDA → APURAÇÃO (sigilo e segregação de acesso) → DEFESA
 **20.8 Defesa do agente.** O agente investigado responde como qualquer pessoa da cidade: conhece o material liberado do caso, tem prazo para defesa e recurso. Quem está envolvido no caso não o julga (seção 9.9).
 
 **20.9 Sanções da conduta (campo IC).**
-- **Afastamento** — revoga ferramentas de serviço e preserva os registros para a apuração.
-- **Demissão da corporação** — remoção da função no jogo: fim da carreira IC daquele personagem na instituição.
-- **Prisão com pena convertida** — seção 9.1, pelo catálogo.
-- **Apreensão de proventos ilícitos** — bens de origem não comprovada entram no processo (seção 6.7).
+
+* **Afastamento** — revoga ferramentas de serviço e preserva os registros para a apuração.
+* **Demissão da corporação** — remoção da função no jogo: fim da carreira IC daquele personagem na instituição.
+* **Prisão com pena convertida** — seção 9.1, pelo catálogo.
+* **Apreensão de proventos ilícitos** — bens de origem não comprovada entram no processo (seção 6.7).
 
 **20.10 Instâncias separadas.** Corregedoria apura conduta institucional; moderação apura regra da comunidade (seção 17). A escolha corrupta do personagem não gera banimento por si só: banimento pune quebra de regra, não caráter (princípio P5).
 
