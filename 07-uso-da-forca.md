@@ -1,4 +1,4 @@
-# 7. Forças de segurança e uso da força
+# 👮 7. Forças de segurança e uso da força
 
 **7.1 Princípio geral.** Regras de uso da força são do RP: necessidade, proporcionalidade, comunicação e preservação da vida. Não são cópia da legislação real nem treinamento policial; são parâmetros da cidade, informados por princípios legais brasileiros de uso da força.
 

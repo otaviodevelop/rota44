@@ -1,4 +1,4 @@
-# 12. Suporte, denúncias e provas
+# 🎧 12. Suporte, denúncias e provas
 
 **12.1 Canais.** Suporte, denúncias, bugs e recursos são feitos por ticket no Discord oficial. No jogo existem os atalhos `/ajuda`, `/bug` e `/denuncia` para abertura guiada. Cada ticket recebe número de protocolo, categoria, situação e desfecho.
 

@@ -1,4 +1,4 @@
-# 11. Loja, monetização e vantagens
+# 🛒 11. Loja, monetização e vantagens
 
 **11.1 Loja oficial.** A única loja oficial da Rota 44 é a Tebex, linkada no Discord e no site. Qualquer outra forma de compra, doação ou pagamento fora dela é golpe contra você e contra a cidade.
 

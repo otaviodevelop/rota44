@@ -1,4 +1,4 @@
-# 4. Regras gerais de convivência
+# 🤝 4. Regras gerais de convivência
 
 **4.1 Respeito mútuo.** Trate todos os participantes com respeito, dentro e fora do personagem. Provocação OOC, xingamento direto, perseguição pessoal e humilhação deliberada não fazem parte do RP e serão tratados como quebra de regra.
 

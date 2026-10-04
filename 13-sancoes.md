@@ -1,13 +1,13 @@
-# 13. Sistema de sanções
+# ⚖️ 13. Sistema de sanções
 
 **13.1 Escala.** As sanções seguem gravidade e reincidência:
 
-| Sanção | Caráter |
-|---|---|
-| Advertência (registro) | Infração leve, primeira vez; orientação registrada no histórico |
-| Remoção de whitelist | Infração média ou reincidência; exige nova ficha e entrevista para retorno |
-| Suspensão temporária (dias) | Infração média/grave ou reincidência; prazo fixo e informado |
-| Banimento permanente | Infração grave (lista fechada abaixo) ou reincidência extrema |
+| Sanção                      | Caráter                                                                    |
+| --------------------------- | -------------------------------------------------------------------------- |
+| Advertência (registro)      | Infração leve, primeira vez; orientação registrada no histórico            |
+| Remoção de whitelist        | Infração média ou reincidência; exige nova ficha e entrevista para retorno |
+| Suspensão temporária (dias) | Infração média/grave ou reincidência; prazo fixo e informado               |
+| Banimento permanente        | Infração grave (lista fechada abaixo) ou reincidência extrema              |
 
 **13.2 Infrações de banimento permanente.** Trapaça/cheat e abuso de exploit (4.4, 4.6) · RMT e caixa 2 (6.10, 11.3) · discurso de ódio, racismo, assédio (1.6) · Dark RP com conteúdo sexual coercitivo ou humilhação discriminatória (5.10) · vazamento de dados pessoais (10.6) · conta compartilhada para burlar sanção (3.2, 3.6).
 

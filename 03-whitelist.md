@@ -1,4 +1,4 @@
-# 3. Whitelist e entrada
+# 🎫 3. Whitelist e entrada
 
 **3.1** O acesso ao servidor exige whitelist aprovada no Discord oficial: ficha + entrevista por voz. O cargo de whitelist é verificado a cada conexão; sem cargo, não há entrada.
 

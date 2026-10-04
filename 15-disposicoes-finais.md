@@ -1,4 +1,4 @@
-# 15. Disposições finais
+# 📋 15. Disposições finais
 
 **15.1 Aceite.** Ao concluir a whitelist, você declara ter lido, compreendido e aceitado a versão vigente destas regras — incluindo as seções de sanções, provas e screenshare.
 
@@ -10,6 +10,6 @@
 
 **15.5 Contato.** Operador do servidor, e-mail de contato e canais oficiais são publicados no site e no Discord oficial.
 
----
+***
 
-*Fim das regras — Rota 44, versão 1.0.*
+_Fim das regras — Rota 44, versão 1.0._

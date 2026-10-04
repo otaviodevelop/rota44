@@ -1,4 +1,4 @@
-# 6. Crime, ação e negociação
+# 🔫 6. Crime, ação e negociação
 
 **6.1 Contexto obrigatório.** Nenhuma atividade ilegal começa sem contexto no RP. Assaltos, sequestros, trocas de tiros e perseguições exigem motivo construído, personagens envolvidos e coerência com a história das partes.
 

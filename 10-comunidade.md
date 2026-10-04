@@ -1,4 +1,4 @@
-# 10. Comunidade, Discord e conteúdo de jogadores
+# 💬 10. Comunidade, Discord e conteúdo de jogadores
 
 **10.1 Discord oficial.** O acesso ao servidor depende do cargo de whitelist no Discord oficial. Sair do Discord remove o cargo e, com ele, o acesso à cidade (seção 3.3).
 

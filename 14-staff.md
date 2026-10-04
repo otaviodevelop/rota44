@@ -1,4 +1,4 @@
-# 14. Staff e governança
+# 🛡️ 14. Staff e governança
 
 **14.1 Papel da staff.** A staff existe para manter a cidade jogável: apura, orienta e aplica sanções. Palavra final em regra não descrita cabe à administração, sempre com fundamentação registrada (seção 1.3).
 

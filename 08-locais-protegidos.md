@@ -1,4 +1,4 @@
-# 8. Locais protegidos e hospitais
+# 🏥 8. Locais protegidos e hospitais
 
 **8.1 Hospital é área neutra.** Não se inicia, continua ou finaliza ação criminosa, confronto, perseguição ou sequestro dentro do hospital. A exceção única são ações formalmente autorizadas pela prefeitura no RP.
 

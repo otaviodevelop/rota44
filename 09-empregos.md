@@ -1,4 +1,4 @@
-# 9. Empregos, serviços e veículos
+# 💼 9. Empregos, serviços e veículos
 
 **9.1 Viaturas e veículos oficiais.** Usar viatura ou veículo oficial (polícia, EMS, bombeiros, GCM, prefeitura) para locomoção pessoal ou fora de serviço é vedado — inclusive descaracterizado. Ao término do expediente, o veículo deve ser guardado na garagem mais próxima.
 

@@ -1,4 +1,4 @@
-# 1. Apresentação e obrigações
+# 📝 1. Apresentação e obrigações
 
 **1.1** A leitura integral destas regras é **obrigatória** antes de solicitar a whitelist. O desconhecimento da regra não isenta o jogador de responsabilidade.
 

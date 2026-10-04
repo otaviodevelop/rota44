@@ -1,4 +1,4 @@
-# 5. Regras de roleplay
+# ♥️ 5. Regras de roleplay
 
 **5.1 Amor à vida.** Em qualquer situação de risco — abordagem, assalto, perseguição — o personagem deve agir com o temor e a cautela que a situação real teria. Frases de efeito, deboche, dancinhas ou atitudes de "vencer no grito" sob ameaça são vedadas.
 
