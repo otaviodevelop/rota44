@@ -1,0 +1,11 @@
+$schema: https://api.gitbook.com/gitbook-docs.yaml
+site:
+  title: Rota 44 — Regras da Cidade
+  structure:
+    - type: space
+      key: regras-rota44
+      title: Regras da Cidade
+      path: regras
+      default: true
+      content:
+        directory: ./
