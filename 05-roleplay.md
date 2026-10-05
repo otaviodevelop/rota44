@@ -1,4 +1,4 @@
-# 🎭 5. Roleplay e imersão
+# 5. Roleplay e imersão
 
 > Princípios: P1, P3, P4.
 

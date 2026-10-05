@@ -1,4 +1,4 @@
-# 🛟 16. Suporte, denúncias e processo
+# 16. Suporte, denúncias e processo
 
 > Princípios: P5, P9.
 

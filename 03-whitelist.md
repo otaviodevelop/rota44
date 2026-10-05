@@ -1,4 +1,4 @@
-# 🎫 3. Whitelist e entrada
+# 3. Whitelist e entrada
 
 > Princípios: P6, P9.
 

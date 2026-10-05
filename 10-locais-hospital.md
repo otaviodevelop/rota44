@@ -1,4 +1,4 @@
-# 🏥 10. Áreas protegidas e hospital
+# 10. Áreas protegidas e hospital
 
 > Princípios: P2, P4.
 
@@ -16,13 +16,13 @@
 
 **Tabela C — Áreas protegidas** · valores iniciais (v1.0 — 04/10/2026).
 
-| Local                                      | O que vale dentro                                                      |
-| ------------------------------------------ | ---------------------------------------------------------------------- |
-| Hospital ROTAVIDA (principal e auxiliares) | Todo crime vedado; atendimento tem prioridade                          |
-| Ponto de nascimento                        | Todo crime vedado; não é refúgio de perseguição                        |
-| Área de tutorial e introdução              | Todo crime vedado                                                      |
-| Estação policial (custódia)                | Todo crime vedado; só atuação de custódia                              |
-| Oficina e mecânica                         | Confronto e sequestro vedados; furto simples sem violência é permitido |
+| Local | O que vale dentro |
+|---|---|
+| Hospital ROTAVIDA (principal e auxiliares) | Todo crime vedado; atendimento tem prioridade |
+| Ponto de nascimento | Todo crime vedado; não é refúgio de perseguição |
+| Área de tutorial e introdução | Todo crime vedado |
+| Estação policial (custódia) | Todo crime vedado; só atuação de custódia |
+| Oficina e mecânica | Confronto e sequestro vedados; furto simples sem violência é permitido |
 
 Atravessar a linha da área não apaga perseguição nem concede imunidade (seção 10.4).
 

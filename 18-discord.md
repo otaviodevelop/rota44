@@ -1,4 +1,4 @@
-# 💬 18. Regras do Discord
+# 18. Regras do Discord
 
 > Princípios: P5, P9.
 

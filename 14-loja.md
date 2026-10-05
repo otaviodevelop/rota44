@@ -1,4 +1,4 @@
-# 🛒 14. Economia, loja e patrimônio
+# 14. Economia, loja e patrimônio
 
 > Princípios: P2, P6, P10.
 

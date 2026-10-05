@@ -1,4 +1,4 @@
-# 🏦 12. Prefeitura e concursos
+# 12. Prefeitura e concursos
 
 > Princípios: P5, P6.
 

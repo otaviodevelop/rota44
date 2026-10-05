@@ -1,4 +1,4 @@
-# 📱 15. Comunidade, conteúdo e celular
+# 15. Comunidade, conteúdo e celular
 
 > Princípios: P1, P7.
 

@@ -19,7 +19,7 @@
 
 Propina acima do teto não produz efeito: a operação é recusada e o valor não sai de quem oferece.
 
-**20.4 Quem oferece responde.** Corrupção ativa responde como a passiva: quem paga carrega a trilha e responde pelo artigo correspondente do catálogo (Código Penal, seção 21 — artigos 51 e 52).
+**20.4 Quem oferece responde.** Corrupção ativa responde como a passiva: quem paga carrega a trilha e responde pelo artigo correspondente do catálogo (Código Penal, seção 21 — Art. 317 e Art. 333).
 
 **20.5 Sinais de apuração.** A corregedoria trabalha sobre: patrimônio incompatível com a renda declarada do agente; ocorrência com falha (objeto apreendido que não existe, registro omissivo); denúncia de cidadão (seção 16.1); imagem de câmera (seção 9.5).
 

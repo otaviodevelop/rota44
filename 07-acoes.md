@@ -1,4 +1,4 @@
-# ⚔️ 7. Ações, confrontos e negociação
+# 7. Ações, confrontos e negociação
 
 > Princípios: P2, P4.
 
@@ -6,15 +6,15 @@
 
 **Tabela A — Ações criminosas** · valores iniciais, v1.0 — 04/10/2026. Alterações publicadas nesta seção com data.
 
-| Ação                           | Criminosos | Efetivo policial mínimo      | Reféns máx. | Intervalo por local                    |
-| ------------------------------ | ---------- | ---------------------------- | ----------- | -------------------------------------- |
-| Furto (objeto ou veículo)      | 1–3        | resposta normal de patrulha  | 0           | 10 min                                 |
-| Assalto a pessoa               | 1–3        | resposta normal de patrulha  | 0           | 15 min                                 |
-| Roubo a loja ou conveniência   | 2–4        | 2 em serviço                 | 2           | 20 min                                 |
-| Roubo a joalheria              | 3–5        | 3 em serviço                 | 2           | 30 min                                 |
-| Roubo a banco                  | 4–6        | 4 em serviço, com negociação | 3           | 60 min                                 |
-| Sequestro de pessoa-alvo       | 2–4        | 2 em serviço                 | 1           | 45 min                                 |
-| Cobrança de milícia (seção 19) | 1–3        | resposta por denúncia        | 0           | mensal, por alvo registrado (Tabela D) |
+| Ação | Criminosos | Efetivo policial mínimo | Reféns máx. | Intervalo por local |
+|---|---|---|---|---|
+| Furto (objeto ou veículo) | 1–3 | resposta normal de patrulha | 0 | 10 min |
+| Assalto a pessoa | 1–3 | resposta normal de patrulha | 0 | 15 min |
+| Roubo a loja ou conveniência | 2–4 | 2 em serviço | 2 | 20 min |
+| Roubo a joalheria | 3–5 | 3 em serviço | 2 | 30 min |
+| Roubo a banco | 4–6 | 4 em serviço, com negociação | 3 | 60 min |
+| Sequestro de pessoa-alvo | 2–4 | 2 em serviço | 1 | 45 min |
+| Cobrança de milícia (seção 19) | 1–3 | resposta por denúncia | 0 | mensal, por alvo registrado (Tabela D) |
 
 Notas da tabela: retenção de refém até **20 minutos**, sem reiniciar por troca de captor; detenção provisória até **20 minutos** (seção 9.1); perseguição comum limitada a **3 unidades terrestres**, com encerramento da busca após **3 minutos** sem informação nova (seção 8.7); equipamento segue o inventário da função, com arma longa apenas em ação de tabela especial.
 

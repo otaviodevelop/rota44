@@ -1,4 +1,4 @@
-# 🏢 13. Organizações: responsabilidades
+# 13. Organizações: responsabilidades
 
 > Princípios: P2, P5, P6.
 
